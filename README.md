@@ -84,9 +84,6 @@ sec-financial-qa/
 - `FIREWORKS_API_KEY`: Your Fireworks AI API key for LLM inference
 - `SEC_USER_AGENT`: Your name and email for SEC API compliance
 
-## Contributing
-
-This project was developed for a financial research challenge. Feel free to extend and improve the system.
 
 ## License
 
