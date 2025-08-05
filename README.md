@@ -13,7 +13,6 @@ A question-answering system that analyzes SEC filings to answer complex financia
 
 ### Prerequisites
 - Python 3.8+
-- 16GB+ RAM recommended
 - Fireworks AI API key
 
 ### Installation
