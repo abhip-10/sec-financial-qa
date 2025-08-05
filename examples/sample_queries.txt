@@ -1,0 +1,36 @@
+# Sample Queries for SEC Financial QA System
+
+## Revenue Analysis
+What are Apple's primary revenue drivers?
+Compare revenue growth trends across technology companies
+How has Microsoft's revenue composition changed over time?
+
+## Risk Assessment
+What are the most commonly cited risk factors across industries?
+How do companies describe climate-related risks?
+Compare cybersecurity risk disclosures across financial services companies
+
+## R&D and Innovation
+Compare R&D spending trends across companies
+What insights about innovation investment strategies emerge?
+How are companies positioning regarding AI and automation?
+
+## Financial Health
+Identify significant working capital changes for financial services companies
+Analyze cash flow trends across retail companies
+What are the key liquidity metrics for energy companies?
+
+## Corporate Governance
+Analyze recent executive compensation changes
+What significant insider trading activity occurred?
+How do companies describe their competitive advantages?
+
+## Sector-Specific
+How do pharmaceutical companies discuss drug development risks?
+What are the main regulatory concerns for financial institutions?
+How do technology companies address data privacy challenges?
+
+## Multi-Company Analysis
+Compare capital allocation strategies across sectors
+What M&A activity has been announced recently?
+How do companies in the same industry differ in their risk profiles?
