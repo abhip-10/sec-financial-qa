@@ -38,7 +38,12 @@ cp .env.example .env
 
 4. **Run the system**
 ```bash
-python main.py
+python main.py <- If this throws an error I suggest running the individual scripts in the following order
+python data_acquisition.py
+python preprocessing.py
+python financial_taxonomy.py
+python embedding_engine.py
+python query_engine.py
 ```
 
 ## Usage
